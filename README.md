@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njlalwani
 - 👀 I’m interested in data science, web developments & game development
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Unity/Unreal Enginne
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on -------------
 - 📫 How to reach me mailto:neeraj.s.lalwani@gmail.com
 
 <!---
